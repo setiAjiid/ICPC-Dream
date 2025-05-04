@@ -1,4 +1,4 @@
-//Keputih, Surabaya, Indonesia - 04/05/2025 - 20.39
+// Keputih, Surabaya, Indonesia - 04/05/2025 - 20.39
 #include <bits/stdc++.h>
 using namespace std;
 
