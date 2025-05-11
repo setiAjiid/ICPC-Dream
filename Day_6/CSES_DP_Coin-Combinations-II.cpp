@@ -6,7 +6,7 @@ using namespace std;
 #define ll long long
 #define ull unsigned long long
 #define el '\n'
-#define day_5 ios::sync_with_stdio(0), cin.tie(0)
+#define day_6 ios::sync_with_stdio(0), cin.tie(0)
 
 //#include <ext/pb_ds/assoc_container.hpp>
 //#include <ext/pb_ds/tree_policy.hpp>
@@ -15,7 +15,7 @@ using namespace std;
 
 const int MOD = 1e9 + 7;
 int main(){
-    day_5;
+    day_6;
     int n, coin;
     cin >> n >> coin;
     vector<int> v(n);
